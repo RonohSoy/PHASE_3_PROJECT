@@ -1,4 +1,4 @@
-# PHASE_3_PROJECT
+# TELECOM CHURN PREDICTION
 ## BUSINESS UNDERSTANDING
 ### Project Overview
 Customer churn is a critical challenge for telecommunications companies, including SyriaTel. Churn occurs when customers stop using the company's services, leading to revenue loss and increased acquisition costs to replace those customers. Retaining existing customers is far more cost-effective than acquiring new ones, making churn prediction vital for business sustainability.
